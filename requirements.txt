@@ -1,5 +1,12 @@
 notebook
 ipykernel
 cassandra-driver
-astrapy
+astrapy>=2.0
 python-dotenv
+langchain_astradb
+langchain_openai
+langchain_community
+pypdf
+pandas
+pprint
+langchain-text-splitters
