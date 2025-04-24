@@ -1,0 +1,5 @@
+notebook
+ipykernel
+cassandra-driver
+astrapy
+python-dotenv
