@@ -43,11 +43,11 @@ python -m ipykernel install --user --name=venv --display-name "Python (venv)"
 
 If you are running the notebooks on VS Code, select your virtual environment for the notebook:
 
-<img src="vs_code_jupyter.png" alt="VSCode" width="600"/>
+<img src="img/vs_code_jupyter.png" alt="VSCode" width="600"/>
 
 Then select "venv"
 
-<img src="vs_code_jupyter2.png" alt="VSCode" width="600"/>
+<img src="img/vs_code_jupyter2.png" alt="VSCode" width="600"/>
 
 
 # Part I - Astra DB Setup, Vector Search, Rerankers and Lexical Search
