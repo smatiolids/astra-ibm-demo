@@ -52,7 +52,7 @@ Then select "venv"
 
 # Part I - Astra DB Setup, Vector Search, Rerankers and Lexical Search
 
-Run the Jupyter notebook: [AstraDemo.ipynb](AstraDemo.ipynb)
+Run the Jupyter notebook: [Part_I_AstraDB_Demo.ipynb](Part_I_AstraDB_Demo.ipynb)
 
 Goals:
 
@@ -63,7 +63,7 @@ Goals:
 
 # Part II - Langflow RAG
 
-Run the Jupyter notebook: [Part II - Langflow RAG Demo.ipynb]("Part II - Langflow RAG Demo.ipynb")
+Run the Jupyter notebook: [Part II - Langflow RAG Demo.ipynb](Part_II_Langflow_RAG_Demo.ipynb)
 
 Goals:
 
