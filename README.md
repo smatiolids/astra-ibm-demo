@@ -4,8 +4,8 @@
 
 What you will need:
 
-- [Install dependencies]("# Preparing for the demo:")
-- [An account on DataStax Astra)(Part I)
+- Install dependencies (Preparing for the demo)
+- An account on DataStax Astra (Part I)
 - A API Key from Watsonx.AI or OpenAI
 
 # Preparing for the demo:
