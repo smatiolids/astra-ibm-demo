@@ -10,3 +10,4 @@ pypdf
 pandas
 pprint
 langchain-text-splitters
+getpass
