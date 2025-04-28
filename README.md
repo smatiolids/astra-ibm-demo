@@ -72,9 +72,9 @@ Goals:
 - Connect the flow to the WatsonX.AI Models
 - Run the Flow through the Langflow API
 
-## Part III - Agents and NoSQL
+# Part III - Agents and NoSQL
 
-Run the Jupyter notebook: [Part II - Langflow RAG Demo.ipynb](Part_III_Astra_NoSQL_AI.ipynb)
+Run the Jupyter notebook: [Part_III_Astra_NoSQL_AI.ipynb](Part_III_Astra_NoSQL_AI.ipynb)
 You can import the file [Langflow RAG with IBM.json](<Part_III - Langflow Agent with NoSQL data from Astra DB.json>) on Langflow for reference.
 
 - Create a CQL table to store banking transactions
