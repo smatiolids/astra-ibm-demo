@@ -8,6 +8,6 @@ langchain_openai
 langchain_community
 pypdf
 pandas
-pprint
 langchain-text-splitters
-getpass
+cassandra-driver
+Faker

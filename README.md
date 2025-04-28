@@ -64,6 +64,7 @@ Goals:
 # Part II - Langflow RAG
 
 Run the Jupyter notebook: [Part II - Langflow RAG Demo.ipynb](Part_II_Langflow_RAG_Demo.ipynb)
+You can import the file [Langflow RAG with IBM.json](<Langflow RAG with IBM.json>) on Langflow for reference.
 
 Goals:
 
@@ -72,6 +73,9 @@ Goals:
 - Run the Flow through the Langflow API
 
 ## Part III - Agents and NoSQL
+
+Run the Jupyter notebook: [Part II - Langflow RAG Demo.ipynb](Part_III_Astra_NoSQL_AI.ipynb)
+You can import the file [Langflow RAG with IBM.json](<Part_III - Langflow Agent with NoSQL data from Astra DB.json>) on Langflow for reference.
 
 - Create a CQL table to store banking transactions
 - Load sample data
