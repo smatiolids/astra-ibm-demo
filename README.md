@@ -49,6 +49,9 @@ Then select "venv"
 
 <img src="img/vs_code_jupyter2.png" alt="VSCode" width="600"/>
 
+# Astra DB, Langflow and Watsonx.AI
+
+<img src="img/lf_demo.png" alt="Demo" width="600"/>
 
 # Part I - Astra DB Setup, Vector Search, Rerankers and Lexical Search
 
