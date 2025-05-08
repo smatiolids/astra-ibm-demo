@@ -39,6 +39,12 @@ Register jupyter on the virtual environment
 python -m ipykernel install --user --name=venv --display-name "Python (venv)"
 ```
 
+# Video Recording:
+
+Astra NoSQL & Langflow Agent: https://www.youtube.com/watch?v=9qH5MVDbZK0
+
+Astra Vector Search & Langflow RAG: https://www.youtube.com/watch?v=fjjGgR691HU
+
 ### VS Code
 
 If you are running the notebooks on VS Code, select your virtual environment for the notebook:

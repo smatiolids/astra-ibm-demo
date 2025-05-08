@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 secure*.zip
-
+.env2
 # Distribution / packaging
 .Python
 build/
